@@ -1,4 +1,4 @@
-## az-pandora
+## az-pandora.
 ## az应用服务部署
 fork本仓库，在az的应用服务部署中心选择github部署
 ![img.png](img.png)
