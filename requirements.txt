@@ -1,1 +1,1 @@
-pandora-chatgpt[cloud]=1.3.0
+pandora-chatgpt[cloud]>=1.3.0
